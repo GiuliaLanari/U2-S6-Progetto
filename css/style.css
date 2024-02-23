@@ -1,0 +1,30 @@
+.size-footer {
+  font-size: 13px;
+}
+
+.footer-position {
+  width: 70rem;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+@media screen and (max-width: 576px) {
+  .menu-ul {
+    margin-inline-start: 1rem;
+  }
+  .kids {
+    justify-content: space-around;
+  }
+  .container1 {
+    flex-direction: column;
+  }
+  .container1 div {
+    margin-block-end: 2rem;
+  }
+  .img-6 {
+    width: 250px;
+  }
+}

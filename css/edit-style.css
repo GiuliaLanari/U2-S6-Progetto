@@ -12,6 +12,10 @@
   left: 2px;
 }
 
+.botton3 {
+  width: 30%;
+}
+
 @media screen and (max-width: 576px) {
   .bottoni {
     flex-direction: column;

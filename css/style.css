@@ -15,6 +15,9 @@
   .menu-ul {
     margin-inline-start: 1rem;
   }
+  .titolo {
+    flex-direction: column;
+  }
   .kids {
     justify-content: space-around;
   }

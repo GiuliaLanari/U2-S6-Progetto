@@ -1,0 +1,19 @@
+.all-bg-p {
+  width: 13rem;
+}
+
+.pen-kids {
+  position: relative;
+}
+
+.pen-kids i {
+  position: absolute;
+  bottom: 3px;
+  left: 2px;
+}
+
+@media screen and (max-width: 576px) {
+  .bottoni {
+    flex-direction: column;
+  }
+}
